@@ -1,0 +1,17 @@
+{
+    "name": "gregor/learnphp",
+    "autoload": {
+        "psr-4": {
+            "Gregor\\Learnphp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gregormmalberg",
+            "email": "gregormalberg16@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^7.1"
+    }
+}
